@@ -6,5 +6,5 @@ fun main() {
     brandVar = "Ferrari"
 
     val brandVal = "Mc Donald's"
-    brandVal = "123"
+//    brandVal = "123"
 }
